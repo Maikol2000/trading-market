@@ -1,0 +1,214 @@
+{
+    "COMMONS": {
+        "CANCEL": "Cancel",
+        "CONFIRM": "Confirm",
+        "YES": "Yes",
+        "NO": "No",
+        "CLOSE": "Close",
+        "SAVE": "Save",
+        "EDIT": "Edit",
+        "DELETE": "Delete",
+        "ADD": "Add",
+        "SEARCH": "Search",
+        "RESET": "Reset",
+        "SELECT_ALL": "Select All",
+        "SELECT_NONE": "Deselect All",
+        "NO_DATA": "No data available",
+        "VIETNAMESE": "Vietnamese",
+        "ENGLISH": "Engulish",
+        "LANGUAGE": "Language",
+        "LOADING": "Loading...",
+        "BUY": "Buy",
+        "SELL": "Sell",
+        "NEUTRAL": "Neutral"
+    },
+    "HOME": {
+        "CRYPTO_TRADE_DATA": "Cryptocurrency Trading Data",
+        "SYMBOL": "Symbol",
+        "HIGH": "High",
+        "LOW": "Low",
+        "BUY_PRICE": "Price (Buy)",
+        "BUY_VOLUME": "Volume (Buy)",
+        "SELL_PRICE": "Price (Sell)",
+        "SELL_VOLUME": "Volume (Sell)",
+        "MATCHED_PRICE": "Matched Price",
+        "MATCHED_VOLUME": "Matched Volume",
+        "TRENDING": "Trending",
+        "SYSTEM_NOTIFY": {
+            "TITLE": "News",
+            "MARK_READ": "Mark all as read",
+            "READ": "Read",
+            "ALERT": "No system notifications"
+        }
+    },
+    "AUTH": {
+        "LOGIN": "Login",
+        "LOGOUT": "Logout",
+        "REGISTER": "Register",
+        "RESET_PASSWORD": "Reset Password",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "USERNAME": "Username",
+        "NAME": "Name",
+        "PHONE_NUMBER": "Phone Number",
+        "REMEMBER_ME": "Remember me",
+        "FORGOT_PASSWORD": "Forgot password?",
+        "OR_LOGIN_WITH": "Or sign in with",
+        "LOGIN_WITH_FACEBOOK": "Sign in with Facebook",
+        "LOGIN_WITH_GOOGLE": "Sign in with Google",
+        "NO_ACCOUNT": "Don't have an account?",
+        "REGISTER_NOW": "Register now",
+        "ERROR": {
+            "EMAIL_ALREADY_EXISTS": "Email already exists",
+            "WEAK_PASSWORD": "Password is too weak",
+            "INVALID_EMAIL": "Invalid email",
+            "PASSWORD_ERROR": "Password must be at least 6 characters"
+        }
+    },
+    "TRADE": {
+        "CHART": {
+            "TITLE": "Financial Chart",
+            "MODAL": {
+                "TITLE": "Indicators",
+                "SEARCH_PLACEHOLDER": "Search indicators"
+            }
+        },
+        "ORDER_BOOK": {
+            "TITLE": "Order Book",
+            "SPREAD": "Spread",
+            "COLUMNS": {
+                "PRICE": "Price",
+                "QUANTITY": "Quantity",
+                "TOTAL": "Total"
+            },
+            "BIDS": "Bids",
+            "ASKS": "Asks",
+            "DEPTH_CHART": "Order Book Depth",
+            "SIZE": "Size"
+        },
+        "WATCHLIST": {
+            "TITLE": "Watchlist"
+        },
+        "ORDER_PORPOLIO": {
+            "TABLE_COLUMNS": {
+                "SYMBOL": "Symbol",
+                "ORDER_TYPE": "Order Type",
+                "QUANTITY": "Quantity/Lot",
+                "PRICE": "Price",
+                "PROFIT": "Profit/Loss (USD)"
+            },
+            "TABS": {
+                "OPEN": "Open",
+                "CLOSED": "Closed",
+                "CANCELED": "Canceled",
+                "PEDDING": "Pending"
+            }
+        },
+        "UPDATE_ORDER": {
+            "MANAGEMENT": {
+                "TITLE": "Order Management",
+                "VOLUME": "lot",
+                "ACTION": {
+                    "SELL": "Sell",
+                    "AT_PRICE": "at price"
+                }
+            },
+            "TABS": {
+                "EDIT": "Edit",
+                "CLOSE_PARTIAL": "Partial Close"
+            },
+            "TRADING": {
+                "TAKE_PROFIT": "Take Profit",
+                "STOP_LOSS": "Stop Loss",
+                "PRICE": "Price",
+                "NOT_SET": "Not set",
+                "VOLUME_CLOSE": "Volume to close",
+                "LOT": "lot"
+            },
+            "BUTTONS": {
+                "MODIFY": "Modify Order",
+                "CLOSE": "Close Order"
+            },
+            "PROFIT": {
+                "ESTIMATED_LOSS": "Estimated Loss"
+            }
+        }
+    },
+    "CRYPTO": {
+        "DETAIL": {
+            "BASIC_INFO": "Basic Information",
+            "PRICE_INFO": "Price Information (24h)",
+            "TECHNICAL_VIEW": "Technical Analysis",
+            "TECHNICAL_INDICATOR": "Technical indicators",
+            "FIELDS": {
+                "MARKET_CAP": "Market Cap",
+                "CURRENT_RATE": "Current Rate",
+                "CIRCULATING_SUPPLY": "Circulating Supply",
+                "TRADING_VOLUME_24H": "Trading Volume (24h)",
+                "HIGHEST_PRICE": "Highest Price",
+                "LOWEST_PRICE": "Lowest Price",
+                "AVERAGE_PRICE": "Average Price",
+                "OPEN_PRICE": "Open Price",
+                "CLOSE_PRICE": "Close Price",
+                "VOLUME_24H": "Volume (24h)"
+            }
+        }
+    },
+    "ORDER": {
+        "FORM": {
+            "TITLE": "Cryptocurrency Order Form",
+            "MARKET_DATA": {
+                "TITLE": "Market Data",
+                "CURRENT_PRICE": "Current Price",
+                "FLOOR_PRICE": "Floor Price (24h Low)",
+                "AVERAGE_PRICE": "Average Price (24h)",
+                "CEILING_PRICE": "Ceiling Price (24h High)"
+            },
+            "FIELDS": {
+                "TOKEN": "Token Symbol",
+                "ORDER_TYPE": "Order Type",
+                "QUANTITY": "Quantity",
+                "QUANTITY_ERROR": "Quantity is required",
+                "PRICE": "Take profit",
+                "PRICE_ERROR": "Price is required",
+                "STOP_LOSS": "Stop loss",
+                "TOTAL_FEE": "Total Fee"
+            }
+        }
+    },
+    "SIDEBAR": {
+        "HOME": "Home",
+        "STOCK_RATE": "Stock Exchange Rate",
+        "COIN_RATE": "Cryptocurrency Rate",
+        "DETAIL_INFO": "Detailed Information",
+        "PLACE_ORDER": "Place Order",
+        "AI_PREDICT": "AI Prediction",
+        "AI_TRADING_BOT": "AI Trading Bot",
+        "AI_CHAT_BOT": "AI Chat Bot",
+        "NEWS": "News"
+    },
+    "TIMEFRAME": {
+        "1m": "1 minute",
+        "3m": "3 minutes",
+        "5m": "5 minutes",
+        "15m": "15 minutes",
+        "30m": "30 minutes",
+        "1H": "1 hour",
+        "2H": "2 hours",
+        "4H": "4 hours",
+        "6H": "6 hours",
+        "12H": "12 hours",
+        "1D": "1 day",
+        "2D": "2 days",
+        "3D": "3 days",
+        "5D": "5 days",
+        "1W": "1 week",
+        "1M": "1 month",
+        "3M": "3 months"
+    },
+    "NOTIFY": {
+        "TITLE": "Notification",
+        "MARK_READ": "Mark all as read",
+        "ALERT": "No system notifications"
+    }
+}
