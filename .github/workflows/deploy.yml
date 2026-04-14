@@ -27,6 +27,9 @@ jobs:
       - name: Build Angular
         run: npm run build -- --configuration production --base-href=/${{ github.event.repository.name }}/
 
+      - name: Debug dist (QUAN TRỌNG)
+        run: ls -R dist
+
       - name: Copy index to 404
         run: cp dist/market-app-vinapulse/browser/index.html dist/market-app-vinapulse/browser/404.html
 
